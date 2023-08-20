@@ -1,0 +1,10 @@
+C:\Users\tahac\source\repos\1-NPrimenumberfinder\1-NPrimenumberfinder\bin\Debug\1-NPrimenumberfinder.exe.config
+C:\Users\tahac\source\repos\1-NPrimenumberfinder\1-NPrimenumberfinder\bin\Debug\1-NPrimenumberfinder.exe
+C:\Users\tahac\source\repos\1-NPrimenumberfinder\1-NPrimenumberfinder\bin\Debug\1-NPrimenumberfinder.pdb
+C:\Users\tahac\source\repos\1-NPrimenumberfinder\1-NPrimenumberfinder\obj\Debug\1-NPrimenumberfinder.csproj.AssemblyReference.cache
+C:\Users\tahac\source\repos\1-NPrimenumberfinder\1-NPrimenumberfinder\obj\Debug\_1_NPrimenumberfinder.Form1.resources
+C:\Users\tahac\source\repos\1-NPrimenumberfinder\1-NPrimenumberfinder\obj\Debug\_1_NPrimenumberfinder.Properties.Resources.resources
+C:\Users\tahac\source\repos\1-NPrimenumberfinder\1-NPrimenumberfinder\obj\Debug\1-NPrimenumberfinder.csproj.GenerateResource.cache
+C:\Users\tahac\source\repos\1-NPrimenumberfinder\1-NPrimenumberfinder\obj\Debug\1-NPrimenumberfinder.csproj.CoreCompileInputs.cache
+C:\Users\tahac\source\repos\1-NPrimenumberfinder\1-NPrimenumberfinder\obj\Debug\1-NPrimenumberfinder.exe
+C:\Users\tahac\source\repos\1-NPrimenumberfinder\1-NPrimenumberfinder\obj\Debug\1-NPrimenumberfinder.pdb
